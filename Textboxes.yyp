@@ -134,6 +134,25 @@
             }
         },
         {
+            "Key": "6c17d2a4-17c0-40d1-a0c7-c624ee54a028",
+            "Value": {
+                "id": "5713bdf2-a44a-4d64-8ce0-84406d914565",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oNikolas\/oNikolas.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "74eb8a06-c80c-4dc0-a679-06b3b59388b7",
             "Value": {
                 "id": "3e503dc0-e7cc-4394-bf9b-830dd2c69468",
@@ -324,6 +343,25 @@
             }
         },
         {
+            "Key": "a0ea0eab-f628-4bf7-871f-2f4c04f062e4",
+            "Value": {
+                "id": "41bd730c-9b3a-405a-992c-7d493d05d94d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sNikolas\/sNikolas.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "c4255f83-2e09-4251-be67-373a89c97be6",
@@ -359,6 +397,25 @@
                 ],
                 "resourcePath": "views\/b0f05a95-bfeb-4d0c-a498-090bd9a46c1e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "baa9eab7-05a7-43ac-919f-0bad09a5f6ba",
+            "Value": {
+                "id": "960e5137-939c-446d-b671-9b74a071791b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oParentTalk\/oParentTalk.yy",
+                "resourceType": "GMObject"
             }
         },
         {
